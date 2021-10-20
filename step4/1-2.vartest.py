@@ -12,6 +12,11 @@ vartest(a)
 print(a)
 
 
-def vartest_global(a):
+def vartest_global():
     global a
     a = a+1
+
+
+vartest_global()
+
+print()

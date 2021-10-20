@@ -1,4 +1,5 @@
 {
+  "editor.formatOnSave": false,
   "code-runner.executorMap": {
     "python": "/opt/homebrew/bin/python3.9"
   }

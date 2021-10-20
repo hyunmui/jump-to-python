@@ -59,3 +59,9 @@ def say_myself(name, old, man=True):
 say_myself('선현민', 35)
 say_myself('아이유', 29, False)
 say_myself('선은진', man=False, old=37)
+
+
+# lambda
+add = lambda a,b : a+b
+
+print(add(3,4))
